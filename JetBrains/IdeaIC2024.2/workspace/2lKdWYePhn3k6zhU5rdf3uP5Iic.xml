@@ -1,0 +1,182 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="GroupQueue" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3djr4qt3gooqr" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;Properties&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1724932837532
+    }
+  }
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1724932837533" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/.idea}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="GroupQueue" />
+            <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="GroupQueue" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue/.idea}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.idea/workspace.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="workspace.xml" />
+                  <item name="workspace.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.GroupQueue" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32990506" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.48161033" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.48161033" left="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="235" width="997" height="659" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1724932818513">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="235" width="997" height="659" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1724932818513" />
+    <state x="730" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1724932761218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="730" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1724932761218" />
+    <state width="839" height="430" key="GridCell.Tab.0.bottom" timestamp="1724935899897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="430" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1724935899897" />
+    <state width="839" height="430" key="GridCell.Tab.0.center" timestamp="1724935899897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="430" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1724935899897" />
+    <state width="839" height="430" key="GridCell.Tab.0.left" timestamp="1724935899897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="430" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1724935899897" />
+    <state width="839" height="430" key="GridCell.Tab.0.right" timestamp="1724935899897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="430" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1724935899897" />
+    <state x="382" y="127" key="SettingsEditor" timestamp="1724936012342">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="382" y="127" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1724936012342" />
+    <state x="560" y="190" width="800" height="750" key="new project wizard" timestamp="1724935945159">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="190" width="800" height="750" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1724935945159" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

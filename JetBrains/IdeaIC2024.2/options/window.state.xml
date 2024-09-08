@@ -1,0 +1,35 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080@120dpi" x="918" y="151" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1794" height="277" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1794" height="277" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1794" height="277" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1794" height="277" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="780" height="696" />
+  </component>
+  <component name="WindowManager">
+    <frame x="967" y="62" width="941" height="1006" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="748" y="336" width="530" height="568" key="FileChooserDialogImpl" timestamp="1725133572070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="336" width="530" height="568" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1725133572070" />
+    <state x="959" y="564" width="1896" height="1006" key="WELCOME_SCREEN" timestamp="1725809814284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="959" y="564" width="1896" height="1006" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1725809814284" />
+    <state width="375" height="653" key="manage.recent.projects.popup" timestamp="1724932595152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="375" height="653" key="manage.recent.projects.popup/0.0.1920.1080" timestamp="1724932595152" />
+    <state x="560" y="212" width="800" height="706" key="new project wizard" timestamp="1724623631783">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="212" width="800" height="706" key="new project wizard/0.0.1920.1080" timestamp="1724623631783" />
+  </component>
+</application>

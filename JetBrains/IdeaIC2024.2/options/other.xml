@@ -1,0 +1,80 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 22.0.2" />
+        <option name="installDir" value="/home/elpablo/.jdks/openjdk-22.0.2" />
+        <option name="sha256" value="41536f115668308ecf4eba92aaf6acaeb0936225828b741efd83b6173ba82963" />
+        <option name="url" value="https://download.java.net/java/GA/jdk22.0.2/c9ecb94cd31b495da20a27d4581645e8/9/GPL/openjdk-22.0.2_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="22.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FindSplitterProportion": "0.39679357",
+    "KEYMAP": "redo\ndelete line\nundo\ncar\nmove lin",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "MarketplacePluginsSearchHistory": "rainbow\nrainbo\nrain\nr\nvisual",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.groupIdState": "org.example",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "SettingsSearchHistory": "font\ntoolbar",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "defaultJdkConfigured": "true",
+    "docker.connection.created": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.21829.142",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "IC-242.21829.142",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "242.21829.142-IJ",
+    "jdk.selected.JAVA_MODULE": "openjdk-22",
+    "last_opened_file_path": "/home/elpablo/gym/GroupQueue",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "3",
+    "previousColorScheme": "_@user_Visual Studio Code Dark Plus",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "promo.framework.suggestion.dismissed.spring.boot": "true",
+    "promo.ignore.ultimate.edition": "true",
+    "registry.to.advanced.settings.migration.build": "IC-242.21829.142",
+    "second.reformat.confirmed.2": "true",
+    "tab_selection_count": "5"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/elpablo/gym/GroupQueue",
+      "/home/elpablo/homie"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="GroupQueue-history" project-path="/home/elpablo/gym/GroupQueue" last-access-time="1725134560355" />
+    </command-history-files>
+  </component>
+</application>

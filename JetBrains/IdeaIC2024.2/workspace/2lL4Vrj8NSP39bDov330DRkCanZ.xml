@@ -1,0 +1,700 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="GroupQueue" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3djr4qt3gooqr">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/groupqueue/GroupQueueApplication.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"GroupQueueApplication.java","foregroundColor":-4013374,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/chooseSortType/chooseSortType.js">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="153">
+              <caret line="130" column="55" lean-forward="true" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"chooseSortType.js","foregroundColor":-9922629,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"6897bb"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,97,118,97,83,99,114,105,112,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-59,-110,-33,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1724946090729
+    },
+    "JavaScript": {
+      "usageCount": 1,
+      "lastUsed": 1724946635513
+    },
+    "HTML": {
+      "usageCount": 2,
+      "lastUsed": 1724946301307
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1724946216807
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/static/js/chooseSortType/chooseSortType.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="2" lastUsage="1724946301307" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1724946090731" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js/chooseSortType}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js/mainPage}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="GroupQueue" />
+            <item name="GroupQueue" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="GroupQueue" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mvn" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mvn" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue/.mvn}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.groupqueue" />
+                      <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/comparators" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="comparators" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/comparators}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/controllers" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="controllers" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/controllers}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/exceptions" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="exceptions" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/exceptions}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/external/api" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="external.api" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/external/api}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/models" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="models" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/models}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/repo" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="repo" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/repo}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/services" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="services" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/services}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/utils" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/java/com/example/groupqueue/utils}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/com/example/groupqueue/GroupQueueApplication.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="GroupQueueApplication" />
+                        <item name="GroupQueueApplication" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                    <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="static" />
+                      <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/images" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="images" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/images}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="js" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/becomeGroupAdminRequests" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="becomeGroupAdminRequests" />
+                          <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js/becomeGroupAdminRequests}" type="462c0819:PsiDirectoryNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/chooseSortType" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="chooseSortType" />
+                          <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js/chooseSortType}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/chooseSortType/chooseSortType.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="chooseSortType.js" />
+                            <item name="chooseSortType.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mainPage" />
+                          <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js/mainPage}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/cancelRegistrationToQueue.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="cancelRegistrationToQueue.js" />
+                            <item name="cancelRegistrationToQueue.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/deleteAccount.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="deleteAccount.js" />
+                            <item name="deleteAccount.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/editProfile.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="editProfile.js" />
+                            <item name="editProfile.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/registerToQueue.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="registerToQueue.js" />
+                            <item name="registerToQueue.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/schedule.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="schedule.js" />
+                            <item name="schedule.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/showUserQueues.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="showUserQueues.js" />
+                            <item name="showUserQueues.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/mainPage/sideMenu.js" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="sideMenu.js" />
+                            <item name="sideMenu.js" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/js/start" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="start" />
+                          <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/js/start}" type="462c0819:PsiDirectoryNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static/styles" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="styles" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/static/styles}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/templates/views" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="templates.views" />
+                      <item name="dir{file:///home/elpablo/gym/GroupQueue/src/main/resources/templates/views}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/application.properties" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="application.properties" />
+                      <item name="application.properties" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///home/elpablo/gym/GroupQueue/src/test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/docker-compose.yml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text="docker-compose.yml" />
+                <item name="docker-compose.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dockerfile" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="Dockerfile" />
+                <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/file.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="file.txt" />
+                <item name="file.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/initializer.sql" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="initializer.sql" />
+                <item name="initializer.sql" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/mvnw" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw" />
+                <item name="mvnw" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/mvnw.cmd" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="mvnw.cmd" />
+                <item name="mvnw.cmd" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/projectIdea.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="projectIdea.txt" />
+                <item name="projectIdea.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.GroupQueue" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22494724" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32852882" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32852882" left="0.22494724" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="235" width="997" height="659" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1724946087181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="235" width="997" height="659" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1724946087181" />
+    <state x="730" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1724946085568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="730" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1724946085568" />
+    <state width="1794" height="276" key="GridCell.Tab.0.bottom" timestamp="1724946720496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1724946720496" />
+    <state width="1794" height="276" key="GridCell.Tab.0.center" timestamp="1724946720496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="276" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1724946720496" />
+    <state width="1794" height="276" key="GridCell.Tab.0.left" timestamp="1724946720496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="276" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1724946720496" />
+    <state width="1794" height="276" key="GridCell.Tab.0.right" timestamp="1724946720496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="276" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1724946720496" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/views/errorPage/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#label#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/views/errorPage/permissionIsNotAllowed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initializer.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2838">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/groupqueue/GroupQueueApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/chooseSortType/chooseSortType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="130" column="55" lean-forward="true" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
