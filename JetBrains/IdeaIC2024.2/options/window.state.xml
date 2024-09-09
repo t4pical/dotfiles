@@ -5,10 +5,10 @@
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="288" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="288" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="288" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1794" height="277" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1794" height="277" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1794" height="277" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1794" height="277" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1792" height="277" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1792" height="277" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1792" height="277" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1792" height="277" />
     <size key="find.popup.0.0.1920.1080@120dpi" width="780" height="696" />
   </component>
   <component name="WindowManager">
