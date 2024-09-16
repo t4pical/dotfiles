@@ -1,2 +1,3 @@
-2024/07/25-23:33:45.188 f7f4 Creating DB /home/elpablo/.config/chromium/Default/Sync Data/LevelDB since it was missing.
-2024/07/25-23:33:45.200 f7f4 Reusing MANIFEST /home/elpablo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/09/15-17:02:05.353 a892 Reusing MANIFEST /home/elpablo/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/09/15-17:02:05.360 a892 Recovering log #3
+2024/09/15-17:02:05.360 a892 Reusing old log /home/elpablo/.config/chromium/Default/Sync Data/LevelDB/000003.log 

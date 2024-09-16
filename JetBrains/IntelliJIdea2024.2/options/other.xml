@@ -1,25 +1,58 @@
 <application>
+  <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
   <component name="NotRoamableUiSettings">
-    <option name="fontSize" value="13.0" />
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="16.0" />
     <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "ask.about.ctrl.y.shortcut.v2": "true",
+    "FindSplitterProportion": "0.32991952",
+    "InstalledPluginsSearchHistory": "rainbo\nrainb\nrain\nrai\nra",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-242.21829.142",
+    "MarketplacePluginsSearchHistory": "rainbo\n/tag:Theme\nvs\nvsc\nvscode",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "SettingsSearchHistory": "font\ntheme",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "enter_selection_count": "1",
     "evlsprt3.242": "5",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "242.21829.142",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "ide.memory.adjusted": "true",
     "input.method.disabler.muted": "true",
-    "previousColorScheme": "_@user_Dark",
-    "registry.to.advanced.settings.migration.build": "IU-242.21829.142"
+    "installed.kotlin.plugin.version": "242.21829.142-IJ",
+    "jdk.selected.JAVA_MODULE": "22",
+    "last_opened_file_path": "/home/elpablo/gym/GQ_2/GroupQueue",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "plugins.preselection.path": "/home/elpablo/.config/JetBrains/IntelliJIdea2024.2/plugins/intellij-rainbow-brackets/lib",
+    "previousColorScheme": "_@user_Visual Studio Code Dark Plus",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IU-242.21829.142",
+    "tab_selection_count": "4",
+    "ts.lib.d.ts.version": "5.4.3"
   },
   "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/elpablo/gym/GQ_2/GroupQueue",
+      "/home/elpablo/.config/JetBrains/IntelliJIdea2024.2/plugins/intellij-rainbow-brackets/lib/searchableOptions-2024.2.4-233.jar",
+      "/home/elpablo/.config/JetBrains/IntelliJIdea2024.2/plugins/intellij-rainbow-brackets/lib/intellij-rainbow-brackets-2024.2.4-233.jar",
+      "/home/elpablo/.config/JetBrains/IntelliJIdea2024.2/plugins/Extra Icons-2024.6.2/lib/ij-extra-icons.jar",
+      "/home/elpablo/.config/JetBrains/IntelliJIdea2024.2/plugins/intellij-visual-studio-code-dark-plus.jar",
+      "/home/elpablo/gym/GroupQueue"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
